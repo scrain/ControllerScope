@@ -1,0 +1,3 @@
+beans = {
+    myPostProcessor demo.MyPostProcessor
+}
